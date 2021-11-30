@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-22T14:22:16Z" name="Suite" finished-at="2021-11-22T14:22:17Z" duration-ms="145">
+    <groups>
+    </groups>
+    <test started-at="2021-11-22T14:22:16Z" name="Test" finished-at="2021-11-22T14:22:17Z" duration-ms="145">
+      <class name="org.testingjava.parallelexcution">
+        <test-method signature="tco6()[pri:0, instance:org.testingjava.parallelexcution@74ea2410]" started-at="2021-11-22T14:22:17Z" name="tco6" finished-at="2021-11-22T14:22:17Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco6 -->
+        <test-method signature="tco4()[pri:0, instance:org.testingjava.parallelexcution@74ea2410]" started-at="2021-11-22T14:22:17Z" name="tco4" finished-at="2021-11-22T14:22:17Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco5()[pri:0, instance:org.testingjava.parallelexcution@74ea2410]" started-at="2021-11-22T14:22:17Z" name="tco5" finished-at="2021-11-22T14:22:17Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco5 -->
+        <test-method signature="tco3()[pri:0, instance:org.testingjava.parallelexcution@74ea2410]" started-at="2021-11-22T14:22:17Z" name="tco3" finished-at="2021-11-22T14:22:17Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco3 -->
+      </class> <!-- org.testingjava.parallelexcution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
