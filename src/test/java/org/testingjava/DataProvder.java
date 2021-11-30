@@ -16,7 +16,11 @@ textsender(username,s);
 WebElement password = xpath("//*[@id=\"pass\"]");
 textsender(password                                                                             ,s1);
 
-}
+System.out.println("harish");
+	System.out.println("harish");
+	System.out.println("harish");
+	
+	}
 
 @DataProvider(name="mydatas")
 
