@@ -16,6 +16,10 @@ textsender(username,s);
 WebElement password = xpath("//*[@id=\"pass\"]");
 textsender(password                                                                             ,s1);
 
+System.out.println("Harish redone");
+System.out.println("Harish redone");
+System.out.println("Harish redone");
+
 }
 
 @DataProvider(name="mydatas")
@@ -24,6 +28,7 @@ public Object[][]  getDatas() {
 	return new Object[][] {
 		{"jack","12345"},{"hari","6789"},{"bala","0987"}};
 
+		
 }}
 
 
